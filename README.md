@@ -1,42 +1,31 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
+<!-- 🔥 Devil Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DEVIL%20BYTES%20&fontAlign=50&fontAlignY=40&color=FF0000&fontColor=FFFFFF&animation=twinkling" />
 
-<h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-  ALL IN ONE BOT 1.4.1.0
+<h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-bottom: 0;">
+  DEVILBYTES
 </h1>
+
+<h3 align="center" style="font-family: Arial, sans-serif; color: #ffffff; text-shadow: 1px 1px 3px rgba(0,0,0,0.7); margin-top: 4px;">
+  All In One Discord Bot • v1.4.1.0
+</h3>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=opensource"
       alt="License: MIT" />
   </a>
-
-  <a href="https://www.paypal.me/@GlaceYT">
-    <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?style=flat-square&logo=paypal"
-      alt="Donate" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Made%20by-Devil-ff4757?style=flat-square"
+      alt="Made by Devil" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Project-DEVILBYTES-a55eea?style=flat-square"
+      alt="DEVILBYTES Project" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/@GlaceYT">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube"
-      alt="YouTube" />
-  </a>
 
-  <a href="https://discord.gg/xQF9f9yUEM">
-    <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
-      alt="Join Discord" />
-  </a>
-
-  <a href="https://www.instagram.com/glaceytt">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"
-      alt="Instagram" />
-  </a>
-
-  <a href="https://www.facebook.com/youulewd/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook"
-      alt="Facebook" />
-  </a>
-</p>
+<hr/>
 
 <h2>Discord All-in-One BOT Installation Guide</h2>
 
@@ -74,19 +63,19 @@ BOT_API=
 
 <h4>Step 3: Add Build and Start Commands</h4>
 <pre>
-Run the following commands to install dependencies and start your bot:
-
 npm install
 node index.js
 </pre>
 
 <h4>Step 4: Get Your Bot Token</h4>
+
 <ol>
   <li>Navigate to the Discord Developer Portal.</li>
   <li>Find your application, and retrieve the bot token from the "Bot" section.</li>
 </ol>
 
 <h4>Step 5: Set Environment Variable</h4>
+
 <ol>
   <li>Create an environment variable with the following details:</li>
   <ul>
@@ -97,12 +86,13 @@ node index.js
 </ol>
 
 <h4>Step 6: Wait and Test</h4>
+
 <ol>
   <li>Wait approximately five minutes for your bot to deploy and start up.</li>
   <li>Test your bot by sending commands to ensure it is operational.</li>
 </ol>
 
-<p>🎉 Congratulations! Your bot is now up and running. 🥳</p>
+<p>🎉 Congratulations! DEVILBYTES is now up and running. 🥳</p>
 
 <h3>Additional Resources</h3>
 <p><strong>Video Tutorial:</strong> If you prefer a video guide, watch this YouTube tutorial [ Soon ].</p>
