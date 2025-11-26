@@ -1,14 +1,13 @@
 {
-  "name": "aio",
+  "name": "devilbytes",
   "version": "1.4.1.0",
-  "description": "ALL IN ONE | DISCORD OPERATING SYSTEM",
+  "description": "DEVILBYTES | All-in-one Discord OS by Devil",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["devilbytes", "discord-bot", "all-in-one"],
+  "author": "Devil",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.8.2",
