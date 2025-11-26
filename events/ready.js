@@ -7,11 +7,12 @@ module.exports = {
     name: 'clientReady',
     once: true,
     async execute(client) {
-    
+
+        console.log(`✅ DEVILBYTES logged in as ${client.user.tag}`);
 
         let defaultIndex = 0;
         let customIndex = 0;
-        let currentInterval = 10000; 
+        let currentInterval = 10000;  
 
         async function getCustomStatus() {
             const statusDoc = await botStatusCollection.findOne({});
@@ -149,6 +150,7 @@ module.exports = {
        
         checkAndUpdateInterval();
 
-        console.log('\x1b[31m[ CORE ]\x1b[0m \x1b[32m%s\x1b[0m', 'Bot Activity Cycle Running ✅');
+        console.log('\x1b[31m[ DEVILBYTES CORE ]\x1b[0m \x1b[32m%s\x1b[0m', 'DEVILBYTES Activity Cycle Running ✅');
+
     }
 };
